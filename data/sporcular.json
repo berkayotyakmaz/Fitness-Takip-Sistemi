@@ -1,0 +1,32 @@
+[
+  {
+    "sporcu_id": 1,
+    "ad": "Beko Demir",
+    "kilo": 78.0,
+    "boy": 180.0,
+    "dogum_yili": 2002,
+    "cinsiyet": "erkek",
+    "hedef_kilo": 72.0,
+    "kayit_tarihi": "2026-05-15"
+  },
+  {
+    "sporcu_id": 2,
+    "ad": "Elif Kaya",
+    "kilo": 62.0,
+    "boy": 168.0,
+    "dogum_yili": 2000,
+    "cinsiyet": "kadin",
+    "hedef_kilo": 58.0,
+    "kayit_tarihi": "2026-05-15"
+  },
+  {
+    "sporcu_id": 3,
+    "ad": "Mert Yılmaz",
+    "kilo": 85.0,
+    "boy": 175.0,
+    "dogum_yili": 1998,
+    "cinsiyet": "erkek",
+    "hedef_kilo": 80.0,
+    "kayit_tarihi": "2026-05-15"
+  }
+]

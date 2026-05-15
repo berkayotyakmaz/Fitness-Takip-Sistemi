@@ -1,0 +1,132 @@
+[
+  {
+    "antrenman_id": 1,
+    "sporcu_id": 1,
+    "tur": "Koşu",
+    "sure": 35,
+    "yogunluk": "orta",
+    "not_metni": "",
+    "tarih": "2026-05-15",
+    "olusturma": "2026-05-15T03:35:43"
+  },
+  {
+    "antrenman_id": 2,
+    "sporcu_id": 1,
+    "tur": "Ağırlık",
+    "sure": 50,
+    "yogunluk": "yuksek",
+    "not_metni": "",
+    "tarih": "2026-05-14",
+    "olusturma": "2026-05-15T03:35:43"
+  },
+  {
+    "antrenman_id": 3,
+    "sporcu_id": 1,
+    "tur": "Yürüyüş",
+    "sure": 25,
+    "yogunluk": "dusuk",
+    "not_metni": "",
+    "tarih": "2026-05-14",
+    "olusturma": "2026-05-15T03:35:43"
+  },
+  {
+    "antrenman_id": 4,
+    "sporcu_id": 1,
+    "tur": "HIIT",
+    "sure": 20,
+    "yogunluk": "yuksek",
+    "not_metni": "",
+    "tarih": "2026-05-13",
+    "olusturma": "2026-05-15T03:35:43"
+  },
+  {
+    "antrenman_id": 5,
+    "sporcu_id": 1,
+    "tur": "Bisiklet",
+    "sure": 60,
+    "yogunluk": "orta",
+    "not_metni": "",
+    "tarih": "2026-05-12",
+    "olusturma": "2026-05-15T03:35:43"
+  },
+  {
+    "antrenman_id": 6,
+    "sporcu_id": 1,
+    "tur": "Yüzme",
+    "sure": 40,
+    "yogunluk": "orta",
+    "not_metni": "",
+    "tarih": "2026-05-11",
+    "olusturma": "2026-05-15T03:35:43"
+  },
+  {
+    "antrenman_id": 7,
+    "sporcu_id": 1,
+    "tur": "Ağırlık",
+    "sure": 55,
+    "yogunluk": "yuksek",
+    "not_metni": "",
+    "tarih": "2026-05-10",
+    "olusturma": "2026-05-15T03:35:43"
+  },
+  {
+    "antrenman_id": 8,
+    "sporcu_id": 1,
+    "tur": "Yoga",
+    "sure": 30,
+    "yogunluk": "dusuk",
+    "not_metni": "",
+    "tarih": "2026-05-09",
+    "olusturma": "2026-05-15T03:35:43"
+  },
+  {
+    "antrenman_id": 9,
+    "sporcu_id": 2,
+    "tur": "Pilates",
+    "sure": 45,
+    "yogunluk": "orta",
+    "not_metni": "",
+    "tarih": "2026-05-15",
+    "olusturma": "2026-05-15T03:35:43"
+  },
+  {
+    "antrenman_id": 10,
+    "sporcu_id": 2,
+    "tur": "Koşu",
+    "sure": 30,
+    "yogunluk": "orta",
+    "not_metni": "",
+    "tarih": "2026-05-14",
+    "olusturma": "2026-05-15T03:35:43"
+  },
+  {
+    "antrenman_id": 11,
+    "sporcu_id": 2,
+    "tur": "Yoga",
+    "sure": 40,
+    "yogunluk": "dusuk",
+    "not_metni": "",
+    "tarih": "2026-05-13",
+    "olusturma": "2026-05-15T03:35:43"
+  },
+  {
+    "antrenman_id": 12,
+    "sporcu_id": 3,
+    "tur": "Basketbol",
+    "sure": 60,
+    "yogunluk": "yuksek",
+    "not_metni": "",
+    "tarih": "2026-05-15",
+    "olusturma": "2026-05-15T03:35:43"
+  },
+  {
+    "antrenman_id": 13,
+    "sporcu_id": 3,
+    "tur": "Ağırlık",
+    "sure": 50,
+    "yogunluk": "orta",
+    "not_metni": "",
+    "tarih": "2026-05-13",
+    "olusturma": "2026-05-15T03:35:43"
+  }
+]
